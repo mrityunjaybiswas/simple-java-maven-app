@@ -1,0 +1,163 @@
+Environment variables:
+  - =::=::\
+  - =C:=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app
+  - ALLUSERSPROFILE=C:\ProgramData
+  - AMDAPPSDKROOT=c:\Program Files (x86)\AMD APP\
+  - APPDATA=C:\Users\jay\AppData\Roaming
+  - CATALINA_BASE=C:\Program Files\Apache Software Foundation\Tomcat 9.0
+  - CATALINA_HOME=C:\Program Files\Apache Software Foundation\Tomcat 8.0
+  - CLASSPATH=D:\tibco\classic\tibrv\8.4\lib\tibrvnative.jar;C:\Program Files\Java\jdk1.8.0_101\bin;C:\Program Files\Apache Software Foundation\Tomcat 8.0\lib;D:\Ant\bin;
+  - COMPOSE_CONVERT_WINDOWS_PATHS=true
+  - COMPUTERNAME=JAY-PC
+  - ComSpec=C:\Windows\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DOCKER_CERT_PATH=C:\Users\jay\.docker\machine\machines\default
+  - DOCKER_HOST=tcp://192.168.99.100:2376
+  - DOCKER_MACHINE_NAME=default
+  - DOCKER_TLS_VERIFY=1
+  - DOCKER_TOOLBOX_INSTALL_PATH=C:\Program Files\Docker Toolbox
+  - ERROR_CODE=0
+  - FP_NO_HOST_CHECK=NO
+  - GOOGLE_API_KEY=no
+  - GOOGLE_DEFAULT_CLIENT_ID=no
+  - GOOGLE_DEFAULT_CLIENT_SECRET=no
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\jay
+  - JAVA_EXEC="D:\sonar-scanner-3.3.0.1492-windows\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=D:\sonar-scanner-3.3.0.1492-windows\bin\..\jre
+  - LOCALAPPDATA=C:\Users\jay\AppData\Local
+  - LOGONSERVER=\\JAY-PC
+  - M2_HOME=C:\Program Files\maven\apache-maven-3.5.0
+  - MAVEN_HOME=C:\Program Files\maven\apache-maven-3.5.0
+  - MAVEN_OPTS=-Xms256m -Xmx512m
+  - NO_PROXY=192.168.99.100
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=2a07
+  - PROJECT_HOME=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app
+  - PROMPT=$P$G
+  - PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - Path=D:\tibco\classic\tibrv\8.4\bin;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\WIDCOMM\Bluetooth Software\;c:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Broadcom\WHL\;C:\Program Files\Broadcom\WHL\syswow64;C:\Program Files\Broadcom\WHL\SysWow64\;C:\Program Files\Broadcom\WHL\SysWow64\syswow64;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\nodejs\;C:\Program Files\Cloud Foundry;C:\Program Files\maven\apache-maven-3.5.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin;C:\Program Files\PuTTY\;C:\Program Files\Amazon\AWSCLI\;D:\Ant\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_101\bin
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=D:\sonar-scanner-3.3.0.1492-windows\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\Windows
+  - TEMP=C:\Users\jay\AppData\Local\Temp
+  - TMP=C:\Users\jay\AppData\Local\Temp
+  - USERDOMAIN=jay-PC
+  - USERNAME=jay
+  - USERPROFILE=C:\Users\jay
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - scriptdir=D:\sonar-scanner-3.3.0.1492-windows\bin
+  - use_embedded_jre=true
+  - windir=C:\Windows
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=D:\sonar-scanner-3.3.0.1492-windows\bin\..\lib\sonar-scanner-cli-3.3.0.1492.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=D:\sonar-scanner-3.3.0.1492-windows\jre\lib\endorsed
+  - java.ext.dirs=D:\sonar-scanner-3.3.0.1492-windows\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+  - java.home=D:\sonar-scanner-3.3.0.1492-windows\jre
+  - java.io.tmpdir=C:\Users\jay\AppData\Local\Temp\
+  - java.library.path=D:\sonar-scanner-3.3.0.1492-windows\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\tibco\classic\tibrv\8.4\bin;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;c:\Program Files\WIDCOMM\Bluetooth Software\;c:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\Broadcom\WHL\;C:\Program Files\Broadcom\WHL\syswow64;C:\Program Files\Broadcom\WHL\SysWow64\;C:\Program Files\Broadcom\WHL\SysWow64\syswow64;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\nodejs\;C:\Program Files\Cloud Foundry;C:\Program Files\maven\apache-maven-3.5.0\bin;C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin;C:\Program Files\PuTTY\;C:\Program Files\Amazon\AWSCLI\;D:\Ant\bin;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_101\bin;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 7
+  - os.version=6.1
+  - path.separator=;
+  - project.home=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app
+  - scanner.home=D:\sonar-scanner-3.3.0.1492-windows\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=D:\sonar-scanner-3.3.0.1492-windows\jre\lib\resources.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\rt.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\sunrsasign.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\jsse.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\jce.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\charsets.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\lib\jfr.jar;D:\sonar-scanner-3.3.0.1492-windows\jre\classes
+  - sun.boot.library.path=D:\sonar-scanner-3.3.0.1492-windows\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=US
+  - user.dir=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app
+  - user.home=C:\Users\jay
+  - user.language=en
+  - user.name=jay
+  - user.script=
+  - user.timezone=Asia/Calcutta
+  - user.variant=
+SonarQube plugins:
+  - SonarPython 1.11.0.2473 (python)
+  - SonarCSS 1.0.3.724 (cssfamily)
+  - JaCoCo 1.0.1.143 (jacoco)
+  - SonarGo 1.1.0.1612 (go)
+  - SonarKotlin 1.4.0.155 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 5.0.0.6962 (javascript)
+  - SonarRuby 1.4.0.155 (ruby)
+  - SonarScala 1.4.0.155 (sonarscala)
+  - SonarC# 7.10.0.7896 (csharp)
+  - SonarJava 5.10.1.16922 (java)
+  - LDAP 2.2.0.608 (ldap)
+  - SonarHTML 3.1.0.1615 (web)
+  - Git 1.7.0.1491 (scmgit)
+  - SonarFlex 2.4.0.1222 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SonarPHP 2.16.0.4355 (php)
+  - SonarTS 1.9.0.3766 (typescript)
+  - SonarVB 7.10.0.7896 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AWj50R4la9va3Iu3Vvki
+  - sonar.core.startTime=2019-02-17T10:27:36+0530
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=src
+  - sonar.language=java
+  - sonar.projectBaseDir=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app
+  - sonar.projectKey=com.mycompany.app
+  - sonar.projectName=my-app
+  - sonar.projectVersion=1.0
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=3.3.0.1492
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\jay\Desktop\Maven\maven-project\simple-java-maven-app\.scannerwork
